@@ -30,6 +30,7 @@
 
 ### 🚀 **Currently Working On**
 - Building modern web apps with **Next.js** and **TypeScript**.
+- Integrating **Large Language Models (LLMs)** into applications to enhance user experiences and automate workflows.  
 - Writing about software development on [my blog](https://medium.com/@saimyahya47).
 - Exploring **DevOps practices**: Docker, Kubernetes, and CI/CD pipelines.
 
