@@ -49,7 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Yahya305&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=Yahya305&theme=default" alt="GitHub Streak" /> -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
