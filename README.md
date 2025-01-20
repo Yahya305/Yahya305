@@ -29,9 +29,9 @@
 ---
 
 ### 🚀 **Currently Working On**
-- Exploring **DevOps practices**: Docker, Kubernetes, and CI/CD pipelines.
-- Writing about software development on [my blog](#).
 - Building modern web apps with **Next.js** and **TypeScript**.
+- Writing about software development on [my blog](https://medium.com/@saimyahya47).
+- Exploring **DevOps practices**: Docker, Kubernetes, and CI/CD pipelines.
 
 ---
 
