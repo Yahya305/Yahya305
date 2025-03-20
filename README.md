@@ -56,6 +56,7 @@
 ### ✍️ Blog Posts : 
 - [7 React Custom Hooks I Can’t Live Without in My Projects](https://medium.com/@saimyahya47/7-react-custom-hooks-i-cant-live-without-in-my-projects-23ade1676901)
 - [How to Create Pagination in Next.js with Shadcn UI](https://medium.com/@saimyahya47/how-to-create-pagination-in-next-js-with-shadcn-ui-e37405d752ef)
+- [Will AI Replace Development?](https://medium.com/@saimyahya47/will-ai-replace-development-7f3cc074b465)
 
 ---
 
